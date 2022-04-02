@@ -8,5 +8,5 @@
 - 计算机
 - 面试
 
-[GitHub]()
-[开始浏览](java/README)
+[GitHub](https://github.com/whrgogogo666/discover.docs)
+[开始浏览](home/introduce.md)
