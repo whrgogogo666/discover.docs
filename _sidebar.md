@@ -9,6 +9,8 @@
 	- [JUC](java/juc.md)
 - [GO](go/README.md)
     - [GO基础](go/base.md)
+	- [GO高级编程](go/go-demo.md)
+		- [基于GO实现的TCP通信](go/demos/tcp-demo.md)
 - [C++](cpp/README.md)
 	- [C++基础](cpp/base.md)
 - [数据库](database/README.md)
