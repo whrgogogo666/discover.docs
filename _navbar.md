@@ -5,5 +5,6 @@
 
 * 作者信息
   * [csdn](https://blog.csdn.net/weixin_41296877?spm=1000.2115.3001.5343)
-  * [github](https://github.com/whrgogogo666/discover.docs)
+  * [github](https://github.com/whrgogogo666/)
+  * [bilibili](https://space.bilibili.com/411817015)
 
